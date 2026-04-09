@@ -7,7 +7,7 @@ __pycache__/
 *.pyc
 
 # Datasets / Large files
-kitti_data/
+kitti-data/
 *.pt
 *.pth
 
