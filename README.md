@@ -22,7 +22,8 @@ Currently, we are focusing on establishing a strong baseline by fine-tuning a DE
 │
 └── README.md
 ```
-
+The CNN based model can be found in a seperate github, and will be implemented and combined soon. 
+Link: https://github.com/MemoOV2002/CNN---Improving-Object-Detection-Robustness-via-Adversarial-Weather-Simulation-/tree/main
 
 ---
 
